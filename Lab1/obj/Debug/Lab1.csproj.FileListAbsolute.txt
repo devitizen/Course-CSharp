@@ -1,0 +1,7 @@
+C:\Dev\.Net\F20_Samples\Lab1\bin\Debug\Lab1.exe.config
+C:\Dev\.Net\F20_Samples\Lab1\bin\Debug\Lab1.exe
+C:\Dev\.Net\F20_Samples\Lab1\bin\Debug\Lab1.pdb
+C:\Dev\.Net\F20_Samples\Lab1\obj\Debug\Lab1.csprojAssemblyReference.cache
+C:\Dev\.Net\F20_Samples\Lab1\obj\Debug\Lab1.csproj.CoreCompileInputs.cache
+C:\Dev\.Net\F20_Samples\Lab1\obj\Debug\Lab1.exe
+C:\Dev\.Net\F20_Samples\Lab1\obj\Debug\Lab1.pdb

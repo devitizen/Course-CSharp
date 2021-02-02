@@ -1,0 +1,7 @@
+C:\Dev\.Net\F20_Samples\Lab3A\bin\Debug\Lab3A.exe.config
+C:\Dev\.Net\F20_Samples\Lab3A\bin\Debug\Lab3A.exe
+C:\Dev\.Net\F20_Samples\Lab3A\bin\Debug\Lab3A.pdb
+C:\Dev\.Net\F20_Samples\Lab3A\obj\Debug\Lab3A.csprojAssemblyReference.cache
+C:\Dev\.Net\F20_Samples\Lab3A\obj\Debug\Lab3A.csproj.CoreCompileInputs.cache
+C:\Dev\.Net\F20_Samples\Lab3A\obj\Debug\Lab3A.exe
+C:\Dev\.Net\F20_Samples\Lab3A\obj\Debug\Lab3A.pdb

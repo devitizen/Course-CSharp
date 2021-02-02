@@ -1,0 +1,10 @@
+C:\Dev\.Net\F20_Samples\Lab4B\bin\Debug\Lab4B.exe.config
+C:\Dev\.Net\F20_Samples\Lab4B\bin\Debug\Lab4B.exe
+C:\Dev\.Net\F20_Samples\Lab4B\bin\Debug\Lab4B.pdb
+C:\Dev\.Net\F20_Samples\Lab4B\obj\Debug\Lab4B.csprojAssemblyReference.cache
+C:\Dev\.Net\F20_Samples\Lab4B\obj\Debug\Lab4B.Form1.resources
+C:\Dev\.Net\F20_Samples\Lab4B\obj\Debug\Lab4B.Properties.Resources.resources
+C:\Dev\.Net\F20_Samples\Lab4B\obj\Debug\Lab4B.csproj.GenerateResource.cache
+C:\Dev\.Net\F20_Samples\Lab4B\obj\Debug\Lab4B.csproj.CoreCompileInputs.cache
+C:\Dev\.Net\F20_Samples\Lab4B\obj\Debug\Lab4B.exe
+C:\Dev\.Net\F20_Samples\Lab4B\obj\Debug\Lab4B.pdb

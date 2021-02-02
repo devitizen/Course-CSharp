@@ -1,0 +1,7 @@
+C:\Dev\.Net\F20_Samples\Lab2A\bin\Debug\Lab2A.exe.config
+C:\Dev\.Net\F20_Samples\Lab2A\bin\Debug\Lab2A.exe
+C:\Dev\.Net\F20_Samples\Lab2A\bin\Debug\Lab2A.pdb
+C:\Dev\.Net\F20_Samples\Lab2A\obj\Debug\Lab2A.csprojAssemblyReference.cache
+C:\Dev\.Net\F20_Samples\Lab2A\obj\Debug\Lab2A.csproj.CoreCompileInputs.cache
+C:\Dev\.Net\F20_Samples\Lab2A\obj\Debug\Lab2A.exe
+C:\Dev\.Net\F20_Samples\Lab2A\obj\Debug\Lab2A.pdb

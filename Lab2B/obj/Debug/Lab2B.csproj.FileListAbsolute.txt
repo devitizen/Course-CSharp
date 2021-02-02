@@ -1,0 +1,10 @@
+C:\Dev\.Net\F20_Samples\Lab2B\bin\Debug\Lab2B.exe.config
+C:\Dev\.Net\F20_Samples\Lab2B\bin\Debug\Lab2B.exe
+C:\Dev\.Net\F20_Samples\Lab2B\bin\Debug\Lab2B.pdb
+C:\Dev\.Net\F20_Samples\Lab2B\obj\Debug\Lab2B.csprojAssemblyReference.cache
+C:\Dev\.Net\F20_Samples\Lab2B\obj\Debug\Lab2B.Form1.resources
+C:\Dev\.Net\F20_Samples\Lab2B\obj\Debug\Lab2B.Properties.Resources.resources
+C:\Dev\.Net\F20_Samples\Lab2B\obj\Debug\Lab2B.csproj.GenerateResource.cache
+C:\Dev\.Net\F20_Samples\Lab2B\obj\Debug\Lab2B.csproj.CoreCompileInputs.cache
+C:\Dev\.Net\F20_Samples\Lab2B\obj\Debug\Lab2B.exe
+C:\Dev\.Net\F20_Samples\Lab2B\obj\Debug\Lab2B.pdb

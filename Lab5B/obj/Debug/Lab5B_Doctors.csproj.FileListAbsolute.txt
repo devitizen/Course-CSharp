@@ -1,0 +1,10 @@
+C:\Dev\.Net\F20_Samples\Lab5B\bin\Debug\Lab5B.exe.config
+C:\Dev\.Net\F20_Samples\Lab5B\bin\Debug\Lab5B.exe
+C:\Dev\.Net\F20_Samples\Lab5B\bin\Debug\Lab5B.pdb
+C:\Dev\.Net\F20_Samples\Lab5B\obj\Debug\Lab5B_Doctors.csprojAssemblyReference.cache
+C:\Dev\.Net\F20_Samples\Lab5B\obj\Debug\Lab5B.Form1.resources
+C:\Dev\.Net\F20_Samples\Lab5B\obj\Debug\Lab5B.Properties.Resources.resources
+C:\Dev\.Net\F20_Samples\Lab5B\obj\Debug\Lab5B_Doctors.csproj.GenerateResource.cache
+C:\Dev\.Net\F20_Samples\Lab5B\obj\Debug\Lab5B_Doctors.csproj.CoreCompileInputs.cache
+C:\Dev\.Net\F20_Samples\Lab5B\obj\Debug\Lab5B.exe
+C:\Dev\.Net\F20_Samples\Lab5B\obj\Debug\Lab5B.pdb
